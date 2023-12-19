@@ -1,0 +1,18 @@
+@media screen and (max-width: 800px) {
+    .nftCard{
+        width: 327px;
+        height: 543px;
+    }
+    .nftImage{
+        width: 278px;
+        height: 278px;
+    }
+    .bottom{
+        margin-top: 16px;
+        gap: 16px;
+    }
+    .priseAndDate div h6{
+        font-size: 15px;
+    }
+
+}
